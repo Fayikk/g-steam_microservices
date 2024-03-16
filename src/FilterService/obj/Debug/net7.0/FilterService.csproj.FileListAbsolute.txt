@@ -31,3 +31,4 @@ C:\g-steam_microservices\src\FilterService\obj\Debug\net7.0\refint\FilterService
 C:\g-steam_microservices\src\FilterService\obj\Debug\net7.0\FilterService.pdb
 C:\g-steam_microservices\src\FilterService\obj\Debug\net7.0\FilterService.genruntimeconfig.cache
 C:\g-steam_microservices\src\FilterService\obj\Debug\net7.0\ref\FilterService.dll
+C:\g-steam_microservices\src\FilterService\obj\Debug\net7.0\FilterService.sourcelink.json

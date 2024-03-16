@@ -1,6 +1,7 @@
 using System.Reflection.Metadata.Ecma335;
 using GameService.DTOs;
 using GameService.Services.GameServices;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace GameService.Controllers;
@@ -20,6 +21,7 @@ public class GameController : ControllerBase
 
 
     [HttpPost]
+    [Authorize]
     public async Task<ActionResult> CreateGame(CreateGameDTO gameDTO)
     {
         var result = await _gameService.CreateGame(gameDTO);

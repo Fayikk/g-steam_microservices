@@ -31,3 +31,4 @@ C:\g-steam_microservices\src\BasketService\obj\Debug\net7.0\refint\BasketService
 C:\g-steam_microservices\src\BasketService\obj\Debug\net7.0\BasketService.pdb
 C:\g-steam_microservices\src\BasketService\obj\Debug\net7.0\BasketService.genruntimeconfig.cache
 C:\g-steam_microservices\src\BasketService\obj\Debug\net7.0\ref\BasketService.dll
+C:\g-steam_microservices\src\BasketService\obj\Debug\net7.0\BasketService.sourcelink.json

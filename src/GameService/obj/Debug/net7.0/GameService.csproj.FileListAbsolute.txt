@@ -50,3 +50,12 @@ C:\g-steam_microservices\src\GameService\bin\Debug\net7.0\MassTransit.RabbitMqTr
 C:\g-steam_microservices\src\GameService\bin\Debug\net7.0\RabbitMQ.Client.dll
 C:\g-steam_microservices\src\GameService\bin\Debug\net7.0\Contracts.dll
 C:\g-steam_microservices\src\GameService\bin\Debug\net7.0\Contracts.pdb
+C:\g-steam_microservices\src\GameService\obj\Debug\net7.0\GameService.sourcelink.json
+C:\g-steam_microservices\src\GameService\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\g-steam_microservices\src\GameService\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\g-steam_microservices\src\GameService\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\g-steam_microservices\src\GameService\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\g-steam_microservices\src\GameService\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\g-steam_microservices\src\GameService\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\g-steam_microservices\src\GameService\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\g-steam_microservices\src\GameService\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll

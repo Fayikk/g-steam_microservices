@@ -53,3 +53,4 @@ C:\g-steam_microservices\src\SearchService\obj\Debug\net7.0\SearchService.genrun
 C:\g-steam_microservices\src\SearchService\obj\Debug\net7.0\ref\SearchService.dll
 C:\g-steam_microservices\src\SearchService\bin\Debug\net7.0\Contracts.dll
 C:\g-steam_microservices\src\SearchService\bin\Debug\net7.0\Contracts.pdb
+C:\g-steam_microservices\src\SearchService\obj\Debug\net7.0\SearchService.sourcelink.json

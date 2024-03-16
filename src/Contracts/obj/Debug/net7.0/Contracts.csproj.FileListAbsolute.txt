@@ -9,3 +9,4 @@ C:\g-steam_microservices\src\Contracts\obj\Debug\net7.0\Contracts.dll
 C:\g-steam_microservices\src\Contracts\obj\Debug\net7.0\refint\Contracts.dll
 C:\g-steam_microservices\src\Contracts\obj\Debug\net7.0\Contracts.pdb
 C:\g-steam_microservices\src\Contracts\obj\Debug\net7.0\ref\Contracts.dll
+C:\g-steam_microservices\src\Contracts\obj\Debug\net7.0\Contracts.sourcelink.json
